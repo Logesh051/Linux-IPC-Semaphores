@@ -123,12 +123,12 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
-![Alt text](img/op1.png)
+![Screenshot 2025-04-30 104008](https://github.com/user-attachments/assets/f83556db-eab5-4022-9d4b-7b18ffcf5277)
 
 
 $ ipcs
 
-![Alt text](img/op2.png)
+![Screenshot 2025-04-30 104016](https://github.com/user-attachments/assets/eb975a48-ba46-4156-b1d2-66b192723586)
 
 
 
